@@ -1,0 +1,17 @@
+body{
+    background-color: #f1f1f1;
+    background-size: cover;
+    height: 97vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    width: 350px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    backdrop-filter: blur(8px);
+    border: 2px solid #f1f1f1;
+    align-items: center;
+}
